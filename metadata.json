@@ -1,0 +1,6 @@
+{
+  "name": "Jogo da Velha",
+  "description": "Jogo da Velha completo com modos 1v1 local, IA inteligente com níveis (Fácil, Médio, Impossível Minimax), modo infinito, efeitos sonoros e temas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
